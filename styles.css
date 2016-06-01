@@ -1,0 +1,14 @@
+svg{
+	background-color: black;
+}
+
+rect{
+	fill: none;
+	pointer-events: all;
+}
+
+circle{
+	fill:none;
+	stroke-width: 1px;
+
+}
